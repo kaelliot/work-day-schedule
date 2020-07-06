@@ -1,3 +1,5 @@
+window.alert("this is running")
+
 var tasks = {};
 
 var time = $(".time")
